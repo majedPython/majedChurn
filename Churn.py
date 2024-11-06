@@ -1,11 +1,9 @@
 import pandas as pd
 import streamlit as st
 import numpy as np
-import matplotlib.pyplot as plt
 from sklearn.preprocessing import LabelEncoder
 import joblib
 import pickle
-import os
 import warnings
 
 warnings.filterwarnings('ignore')
